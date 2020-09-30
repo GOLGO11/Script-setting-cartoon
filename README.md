@@ -14,4 +14,4 @@
 
 -----
 
-![这是alt,请把鼠标放在图片上](http://imgur.com/myimage.jpg "这是title")
+![一张图片](http://imgur.com/myimage.jpg)
