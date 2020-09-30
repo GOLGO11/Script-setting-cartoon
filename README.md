@@ -24,3 +24,12 @@
 
 你的电脑死机勒？试试
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
+
+----
+
+|第一列       |第二列     |第三列     |
+|:----------  |:----:     |-----:     |
+|dddd         |ee         |rrr        |
+|vvvvvvv      |ttt        |yyyy       |
+
+
