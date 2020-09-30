@@ -1,3 +1,3 @@
 # Script-setting-cartoon
 
-   This is code
+   <code>This is code</code>
