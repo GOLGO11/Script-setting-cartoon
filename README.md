@@ -1,3 +1,7 @@
 # Script-setting-cartoon
 
-   This is code
+'''ruby
+def foobar
+   puts "hello world!"
+end
+'''
