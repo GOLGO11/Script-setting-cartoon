@@ -19,3 +19,8 @@
 ----
 
 \* 咯咯咯 \*
+
+----
+
+你的电脑死机勒？试试
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
